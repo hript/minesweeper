@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Админ.LAPTOP-SP0I462P\source\repos\minesweeper\minesweeper\Source.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Админ.LAPTOP-SP0I462P\source\repos\minesweeper\minesweeper\Source.cpp(41,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  minesweeper.vcxproj -> C:\Users\Админ.LAPTOP-SP0I462P\source\repos\minesweeper\Debug\minesweeper.exe
